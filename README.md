@@ -1,0 +1,1 @@
+## Testing area for golang projects
